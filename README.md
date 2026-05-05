@@ -29,3 +29,20 @@ Login
 Start quiz
 Submit answers
 View score
+
+ ## 📂 Project Structure
+
+
+quiz-app/
+│
+├── backend/
+│ ├── myapp/
+│ ├──myproject
+│ ├── manage.py
+│ ├── db.sqlite3
+│
+├── frontend/
+│ ├── src/
+│ ├── public/
+│
+└── README.md
