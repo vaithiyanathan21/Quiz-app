@@ -6,7 +6,7 @@ Users can take quizzes, view scores, and teachers/admins can manage questions.
 - User Registration & Login
 - Attempt quizzes
 - View score after submission
-- 
+  
 ### Quiz adder / Admin
 - Add, edit, delete questions
 - Manage categories
@@ -30,19 +30,3 @@ Start quiz
 Submit answers
 View score
 
- ## 📂 Project Structure
-
-
-quiz-app/
-│
-├── backend/
-│ ├── myapp/
-│ ├──myproject
-│ ├── manage.py
-│ ├── db.sqlite3
-│
-├── frontend/
-│ ├── src/
-│ ├── public/
-│
-└── README.md
