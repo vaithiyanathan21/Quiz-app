@@ -23,27 +23,27 @@ Users can take quizzes, view scores, and teachers/admins can manage questions.
 - Django
 - Django REST Framework
 
-##installation
-###Backend
--mkdir Backend
--cd Backend
--python -m venv env 
--env\script\activate
--pip install django
--pip install pillow
--django admin startproject project 
--python manage.py runserver
--python manage.py startapp myapp 
--python manage.py runserver
+## installation
+### Backend
+- mkdir Backend
+- cd Backend
+- python -m venv env 
+- env\script\activate
+- pip install django
+- pip install pillow
+- django admin startproject project 
+- python manage.py runserver
+- python manage.py startapp myapp 
+- python manage.py runserver
 
-###frontend
--mkdir frontend
--cd frontend
--npm install 
--npm create vite@latest myapp -- --tamplate react
--npm install axios
--cd myapp
--npm run dev
+### frontend
+- mkdir frontend
+- cd frontend
+- npm install 
+- npm create vite@latest myapp -- --tamplate react
+- npm install axios
+- cd myapp
+- npm run dev
 
 
 
