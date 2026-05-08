@@ -23,10 +23,4 @@ Users can take quizzes, view scores, and teachers/admins can manage questions.
 - Django
 - Django REST Framework
 
-### Usage
--Register as a user
--Login
--Start quiz
--Submit answers
--View score
 
