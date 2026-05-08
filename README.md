@@ -40,7 +40,7 @@ Users can take quizzes, view scores, and teachers/admins can manage questions.
 - mkdir frontend
 - cd frontend
 - npm install 
-- npm create vite@latest myapp -- --tamplate react
+- npm create vite@latest myapp -- --template react
 - npm install axios
 - cd myapp
 - npm run dev
