@@ -8,7 +8,7 @@ Users can take quizzes, view scores, and teachers/admins can manage questions.
 - View score after submission
   
 ### Quiz adder / Admin
-- Add, edit, delete questions
+- Add, edit, delete ,update questions
 - Manage categories
 - View student performance
   
@@ -22,6 +22,7 @@ Users can take quizzes, view scores, and teachers/admins can manage questions.
 ### Backend
 - Django
 - Django REST Framework
+- sqlite(database)
 
 ## installation
 ### Backend
